@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_givehope.o: qt/qrc_givehope.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

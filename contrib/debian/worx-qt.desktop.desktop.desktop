@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HOPC
+Comment=HOPC P2P Cryptocurrency
+Exec=givehope-qt %u
+Terminal=false
+Type=Application
+Icon=givehope128
+MimeType=x-scheme-handler/givehope;
+Categories=Office;Finance;
+Name[en_US]=givehope-qt.desktop.desktop
