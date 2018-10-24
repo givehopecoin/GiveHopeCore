@@ -4,8 +4,8 @@ Shell script to install a [GiveHope Masternode](https://givehope.world/) on a Li
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/GiveHope/master/givehope_install.sh
-bash givehope_install.sh
+wget -q https://github.com/givehopecoin/masternode/blob/master/auto-install.sh
+bash auto-install.sh
 ```
 ***
 
