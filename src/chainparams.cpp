@@ -137,12 +137,8 @@ public:
         assert(hashGenesisBlock == uint256("0x00000866f08b92c8b61bb2ac0af2c0e799e9c4b691fcba67f1413793ea005c84"));
         assert(genesis.hashMerkleRoot == uint256("0x8fa45635d53531fb14bb9ee2a77ba2d0f68f4642f63a8bfa2daca2e11baaa23a"));
       
-        vSeeds.push_back(CDNSSeedData("104.168.167.66", "104.168.167.66"));	//c
-        vSeeds.push_back(CDNSSeedData("158.69.223.139", "158.69.223.139"));	//c
-        vSeeds.push_back(CDNSSeedData("95.179.202.146", "95.179.202.146"));	//e
-        vSeeds.push_back(CDNSSeedData("199.247.9.174", "199.247.9.174"));	//e
-        vSeeds.push_back(CDNSSeedData("144.202.48.152", "144.202.48.152"));	//g
-        vSeeds.push_back(CDNSSeedData("45.63.65.67", "45.63.65.67"));		//g
+        vSeeds.push_back(CDNSSeedData("dnsseed.givehopecoins.com", "dnsseed.givehopecoins.com"));
+        vSeeds.push_back(CDNSSeedData("dnsseed-alt.givehopecoins.com", "dnsseed-alt.givehopecoins.com"));
 
 	//vFixedSeeds.clear();
         //vSeeds.clear();
